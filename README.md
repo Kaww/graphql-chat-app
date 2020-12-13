@@ -39,3 +39,7 @@ npm run dev
 ```
 
 The server will be running on [http://localhost:8000](http://localhost:8000).
+
+## iOS SwiftUI App
+
+[Link to the repository.](https://github.com/Kaww/ChatQL)
